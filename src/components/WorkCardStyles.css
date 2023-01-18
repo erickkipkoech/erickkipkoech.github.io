@@ -6,9 +6,13 @@
     max-width: 1140px;
     margin: auto;
     display: grid;
+<<<<<<< HEAD
     grid-template-columns: repeat(3,1fr);
     grid-gap: 40px;
     padding-bottom: 2rem;
+=======
+    grid-template: repeat(2,1fr);
+>>>>>>> 768e3e72 (Initial Portfolio)
 }
 .project-card{
     background: #1a1919;
@@ -16,7 +20,10 @@
 }
 .project-card img{
     width: 100%;
+<<<<<<< HEAD
     height: 55%;
+=======
+>>>>>>> 768e3e72 (Initial Portfolio)
 }
 .project-title{
     color: #fff;
